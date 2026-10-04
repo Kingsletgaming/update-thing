@@ -1,8 +1,8 @@
 {
-  "client_version": "1.0.3",
-  "cimgui_version": "1.0.3",
-  "client_url": "https://github.com/Kingsletgaming/update-thing/releases/download/v1.1.0/Client.dll",
-  "cimgui_url": "https://github.com/Kingsletgaming/update-thing/releases/download/v1.1.0/cimgui.dll",
-  "client_hash": "EDE5874339E491305923499FE56780797ED3DB46C28401FC0EA820FF6146A65D",
+  "client_version": "1.1.1",
+  "cimgui_version": "1.1.1",
+  "client_url": "https://github.com/Kingsletgaming/update-thing/releases/download/v1.1.1/Client.dll",
+  "cimgui_url": "https://github.com/Kingsletgaming/update-thing/releases/download/v1.1.1/cimgui.dll",
+  "client_hash": "6A01ADD17B4FBA4E894996F104944F70755E9BBB2AE5FD7BB9D05662E81EF9B8",
   "cimgui_hash": "DA69ACDAF4CC952E5DFD889D87876E3A4270F8A93DC1FBC4148C32DF3B5EECA7"
 }
